@@ -1,0 +1,8 @@
+## Interface: 100000
+## Title: Q8_UI
+## Notes: Shows who is targeting you with class colors and modifies UI elements.
+## Author: VortexQ8
+## Version: 1.1
+
+Q8_UI.lua
+Q8_UI.xml
